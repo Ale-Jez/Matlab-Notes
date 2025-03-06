@@ -1,6 +1,6 @@
-# Numerical Methods 1 & 2 - Notes
+# Matlab - Numerical Methods 1 & 2 - Notes
 
-The following repository is an obsidian vault for Numerical Methods 1 & 2 course at Warsaw University of Technology.
+The following repository is an obsidian vault for Matlab for Numerical Methods 1 & 2 course at Warsaw University of Technology.
 
 ## How to Use These Notes in Obsidian
 
@@ -10,7 +10,7 @@ The following repository is an obsidian vault for Numerical Methods 1 & 2 course
 
 2. **Clone the repository**:
 ```bash
-git clone https://github.com/Operating-Systems-Course-Notes/Operating-Systems-Notes
+git clone https://github.com/Ale-Jez/Matlab-Notes.git
 ```
 
 3. **Open the Vault in Obsidian**:
